@@ -97,7 +97,17 @@ Detection Coverage vs Industry Tools (tested against PANIX):
 
 **Detects:** Cron/systemd backdoors · SSH key abuse · LD\_PRELOAD/LD\_AUDIT hijacking · PAM backdoors · eBPF rootkits · NSS hijacking · Python injection · Sudo backdoors · Docker escapes · Kernel modules · Web shells · + 29 more
 
+<div align="center">
+
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajaypalle252/PersistenceHunter)
+
+<br/>
+
+<a href="https://github.com/ajaypalle252/PersistenceHunter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaypalle252&repo=PersistenceHunter&theme=radical&title_color=FF2222&icon_color=FF2222&border_color=FF2222&bg_color=0d1117&text_color=c9d1d9" />
+</a>
+
+</div>
 
 ---
 
